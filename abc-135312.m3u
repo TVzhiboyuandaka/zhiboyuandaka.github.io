@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 ,====== 香港,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,TVB明珠台
+http://vrlivews.stream.moguv.com/live/8711188e4215d61c7d25c929f385a57d/playlist.m3u8?WithCaption
+#EXTINF:-1 ,====== 台湾,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,民视第一
+http://vrlivews2.stream.moguv.com/live/3eabe8694e59b3940974661e3bf725fa/playlist.m3u8?WithCaption
+#EXTINF:-1 ,TVBS新闻台
+http://vrlivews2.stream.moguv.com/live/85452c6f615fcf1f9d23221adb7687c4/playlist.m3u8?WithCaption

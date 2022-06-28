@@ -2,7 +2,7 @@
 #EXTINF:-1 ,====== 香港,#genre# ======
 http://0/0.m3u8
 #EXTINF:-1 ,TVB明珠台
-http://vrlivews.stream.moguv.com/live/8711188e4215d61c7d25c929f385a57d/playlist.m3u8?WithCaption
+http://tc-tct.douyucdn2.cn/dyliveflv3/6449849rjjgN6vCV.flv?wsAuth=8080ac3eee40f525f8adfe09ac62eb51&token=cpn-androidmpro-0-6449849-620c3da2f5cb76eb3b6bf5cc8c5f0c5b3af61c8c4337cb59&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 #EXTINF:-1 ,====== 台湾,#genre# ======
 http://1/1.m3u8
 #EXTINF:-1 ,民视第一

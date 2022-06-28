@@ -1,0 +1,5 @@
+香港,#genre#
+TVB明珠台,http://vrlivews.stream.moguv.com/live/8711188e4215d61c7d25c929f385a57d/playlist.m3u8?WithCaption
+台湾,#genre#
+民视第一,http://vrlivews2.stream.moguv.com/live/3eabe8694e59b3940974661e3bf725fa/playlist.m3u8?WithCaption
+TVBS新闻台,http://vrlivews2.stream.moguv.com/live/85452c6f615fcf1f9d23221adb7687c4/playlist.m3u8?WithCaption

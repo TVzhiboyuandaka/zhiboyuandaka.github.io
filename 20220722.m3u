@@ -56,24 +56,28 @@ QQ飞车手游官方直播间,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQ
 第五人格,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.flv?wsAuth=ae0465766b548ea9075476618382d8c0&token=cpn-androidmpro-0-3226194-1c055b38aa29e28775b64b45bd1d4e52e31830c504d737ac&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 香港频道,香港频道
+TVB翡翠台,https://pull-rtmp-l6.ixigua.com/live/a37e9dccdc17ccb5f152b6dc5407b1e4.flv
 无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-无线新闻台,https://pull-rtmp-l6.ixigua.com/live/c50aba809618608a1d6eef32f76480f6.m3u8
+无线新闻台,https://pull-rtmp-l6.ixigua.com/live/fd4507000b20e918c169dfa3ecaadd8d.flv
+无线财经台,https://pull-rtmp-l6.ixigua.com/live/962f4c45ab3a9ee342e552a45ccbc2e5.flv
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 凤凰卫视中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰卫视咨询台,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰香港 (720p),http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰香港 (720p),http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-RTHK31,https://rthkvod2022.akamaized.net/mp4/tv/2020/WORXET2020M02000054.smil/master.m3u8
-RTHK32,https://rthkvod2022.akamaized.net/mp4/tv/2020/WORXET2020M02000054.smil/master.m3u8
-香港开电视,https://d3lbtdzocyu3ke.cloudfront.net/out/v1/214e9e20c822494ea5bc1f1428833428/index.m3u8
-TVB J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/profile_0/b0e4065cdcc942f7bcde91ddca8288fb/chunklist_ssaiV.m3u8
+凤凰香港 (720p),http://tlive.fengshows.cn/live/0307phkhd.flv?txSecret=85dab47a93c7ee7f354e079fae5ae159&txTime=62e1f896
+Viu TV,https://pull-rtmp-l6.ixigua.com/live/3993ebb307d4bba7db1c5e30baf0a116.flv
+RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+TVB明珠台,https://pull-rtmp-l6.ixigua.com/live/3fac18913a0bd163409efdd7eb877101.flv
+TVB J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/profile_0/9441932c9852443f86a3f3f200adcd8b/chunklist_ssaiV.m3u8
+TVBJ2,https://pull-rtmp-l6.ixigua.com/live/c079c242b4f46fcd85bfd4ed27b8935b.flv
 TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_-1298155843/PLTV/88888888/224/3221231733/1.m3u8
 
 
 澳门频道,澳门频道
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-澳视咨询,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳门Macau,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 澳门Macau2,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
@@ -81,15 +85,16 @@ TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279
 澳门体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 
 
-
-
 台湾频道,台湾频道
 民視,rtmp://59.124.75.138/sat/tv051
+台視,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 台視,rtmp://59.124.75.138/sat/tv071
 中視,rtmp://59.124.75.138/sat/tv091
 華視,rtmp://59.124.75.138/sat/tv111
+中天新闻,https://pull-rtmp-l6.ixigua.com/live/0f6e8666f7c1cae8cdbbca9c2ef6d873.flv
 TVBS新闻,rtmp://59.124.75.138/sat/tv551
-TVBS新闻欢乐台,rtmp://59.124.75.138/sat/tv421
+TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
+东森新闻台,https://pull-rtmp-l6.ixigua.com/live/8ad3850caa4d36208674a06425675524.flv
 東森財經新聞,rtmp://59.124.75.138/sat/tv571
 東森超視,rtmp://59.124.75.138/sat/tv521
 緯來育樂,rtmp://59.124.75.138/sat/tv701
@@ -102,18 +107,32 @@ ELTA體育2,rtmp://59.124.75.138/sat/md011
 ELEVEN2,rtmp://59.124.75.138/sat/md021
 ELTA體育3,rtmp://59.124.75.138/sat/md041
 ELTA體育1,rtmp://59.124.75.138/sat/md051
-大愛,http://51.222.193.142:40010/21
-非凡新聞,http://51.222.193.142:40010/22
-華視教育,http://51.222.193.142:40010/23
-寰宇新聞,http://51.222.193.142:40010/24
-台視綜合,http://51.222.193.142:40010/25
-龍華偶像,http://51.222.193.142:40010/26
-龍華戲劇,http://51.222.193.142:40010/27
-龍華洋片,http://51.222.193.142:40010/28
-靖洋卡通,http://51.222.193.142:40010/29
-靖天卡通,http://51.222.193.142:40010/30
-靖天電視,http://51.222.193.142:40010/31
-靖天日本,http://51.222.193.142:40010/32
+緯來戲劇,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+MUCH TV,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+廈門衛視,http://61.219.170.95:18531/http/192.168.1.9:8078/hls/42/80/xmtv.m3u8
+凰衛視資訊,http://61.219.170.95:18565/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
+momo 綜合台,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
+龍華偶像劇,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+八大第一FHD,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
+龍華日韓劇,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+東風衛視,http://61.219.170.95:18560/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+湖南衛視,http://61.219.170.95:18536/http/192.168.1.9:8078/hls/41/80/huana.m3u8
+鳯凰衛視中文,http://61.219.170.95:18566/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8
+大愛電視,http://61.219.170.95:18567/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+衛視電影FHD,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+海峽衛視FHD,http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8
+江蘇衛視,http://61.219.170.95:8547/http/192.168.1.9:8078/hls/42/80/cctv13.m3u8
+台視FHD,http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+衛視中文FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+浙江衛視,http://61.219.170.95:18534/http/192.168.1.9:8078/hls/41/80/zhejiang.m3u8
+ANIMAX 卡通動畫頻道,http://61.219.170.95:18550/http/192.168.1.9:8081/hls/70/812/ch39.m3u8
+cNBC,http://61.219.170.95:18551/http/192.168.1.9:8078/hls/24/80/cnbc90.m3u8
+亞洲旅遊,http://61.219.170.95:18568/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+人間衛視,http://61.219.170.95:18561/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+AXN,http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+龍華電影台,http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+緯來育樂FHD,http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
 
 中国频道,中国频道
 CCTV-1综合 (1080p),https://cctvwbcdali.v.myalicdn.com/cctvwbcd/cdrmcctv1_1/index.m3u8?b=200-2100

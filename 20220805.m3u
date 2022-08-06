@@ -76,6 +76,7 @@ DOTA2赛事专用,http://tc-tct.douyucdn2.cn/dyliveflv1a/3811559rikG9MtpJ_2000.f
 香港频道,香港频道
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 无线财经资讯台,https://t19.iptv200.com/live/j5/index.m3u8?session=yb1nfl9rl2u5xa0lgcpdc0wfq5macltz
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -83,16 +84,17 @@ DOTA2赛事专用,http://tc-tct.douyucdn2.cn/dyliveflv1a/3811559rikG9MtpJ_2000.f
 凤凰卫视咨询台,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰香港 (720p),http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
 凤凰香港 (720p),http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8?zgangd
+凤凰香港(8月5日回放）,https://tv2.5dxr.xyz/20220805/fBbYThlu/index.m3u8?skipl=1
+凤凰卫视凤凰秀(8月5日回放),https://tv2.5dxr.xyz/20220805/7zMTAxdL/hls/index.m3u8?skipl=1
 凤凰电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 TVB J2,https://j3.lhlh.app/mv.m3u8
 TVB J1,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8?zgangd
 ViuTV,http://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-有線新聞台HD,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線18台,rtmp://59.124.75.138/sat/hk041
 
 
@@ -129,24 +131,33 @@ ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 中視,rtmp://59.124.75.138/sat/tv091
 華視,rtmp://59.124.75.138/sat/tv111
 中天新闻台,https://t9.iptv200.com/live/ztxw/index.m3u8?session=24782h8yc5n6m98oz467x1nbb4b4e9z8
-中天新闻台（8月4日回放）,https://tv2.5dxr.xyz/20220805/6AxVuDeS/hls/index.m3u8?skipl=1
-中天新闻台（8月4日回放）,http://hl4.umykrj.cn/video/m3u8/2022/08/05/c854552e/playlist.m3u8
-三立新闻台（8月4日回放）,https://tv2.5dxr.xyz/20220805/dCUbhiki/hls/index.m3u8?skipl=1
-三立新闻台（8月4日回放）,http://hl2.umykrj.cn/video/m3u8/2022/08/03/4f1be1b3/playlist.m3u8
+中天新闻台（8月5日回放）,https://tv2.5dxr.xyz/20220806/SfQOLPPP/index.m3u8?skipl=1
+中天新闻台（8月5日回放）,http://hl2.umykrj.cn/video/m3u8/2022/08/06/13e30b26/playlist.m3u8
+三立新闻台（8月5日回放）,https://tv2.5dxr.xyz/20220806/9WkPRnTZ/hls/index.m3u8?skipl=1
+三立新闻台（8月5日回放）,https://tv2.5dxr.xyz/20220806/PWpmlcYn/hls/index.m3u8?skipl=1
 TVBS新闻,rtmp://59.124.75.138/sat/tv551http://hl4.umykrj.cn/video/m3u8/2022/08/05/dc113740/playlist.m3u8
-TVBS56（8月4日回放),https://tv2.5dxr.xyz/20220805/KWVN90fJ/hls/index.m3u8?skipl=1
-TVBS56（8月4日回放),http://hl7.umykrj.cn/video/m3u8/2022/08/04/0715ac33/playlist.m3u8
+TVBS HD（8月5日回放）,https://tv2.5dxr.xyz/20220805/dK2HKtZA/index.m3u8?skipl=1
+TVBS HD（8月5日回放）,https://tv2.5dxr.xyz/20220805/YhWPzuB5/hls/index.m3u8?skipl=1
+TVBS HD（8月5日回放）,http://hl0.umykrj.cn/video/m3u8/2022/08/05/876542ff/playlist.m3u8
+TVBS56（8月5日回放),https://tv2.5dxr.xyz/20220805/LNz9iceB/index.m3u8?skipl=1
+TVBS56（8月5日回放),http://hl5.umykrj.cn/video/m3u8/2022/08/05/5de3b03e/playlist.m3u8
 TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
-民视新闻台（8月4日回放),https://tv2.5dxr.xyz/20220804/qWQ81hHC/hls/index.m3u8?skipl=1
-东森新闻台（8月5日回放),https://tv2.5dxr.xyz/20220805/MmefHjq5/hls/index.m3u8?skipl=1
-东森新闻台（8月5日回放),http://hl4.umykrj.cn/video/m3u8/2022/08/05/56ff8066/playlist.m3u8
+民视新闻台（8月5日回放),https://tv2.5dxr.xyz/20220805/uMBNwFUt/hls/index.m3u8?skipl=1
+民视新闻台（8月5日回放),http://hl2.umykrj.cn/video/m3u8/2022/08/05/72b91b8b/playlist.m3u8
+东森新闻台（8月5日回放),https://tv2.5dxr.xyz/20220806/9rRiLqzn/index.m3u8?skipl=1
+东森新闻台（8月5日回放),http://hl2.umykrj.cn/video/m3u8/2022/08/06/eb301c72/playlist.m3u8
 東森超視ᴴᴰ,rtmp://59.124.75.138/sat/tv331
-東森財經新聞（8月4日回放),https://tv2.5dxr.xyz/20220804/qrLfO0FU/hls/index.m3u8?skipl=1
-東森財經新聞（8月4日回放),http://hl0.umykrj.cn/video/m3u8/2022/08/04/baf0bc00/playlist.m3u8
+東森財經新聞（8月5日回放),https://tv2.5dxr.xyz/20220805/KJdbQUyp/hls/index.m3u8?skipl=1
+東森財經新聞（8月5日回放),https://tv2.5dxr.xyz/20220805/MeQZaUGT/hls/index.m3u8?skipl=1
 東森財經新聞,rtmp://59.124.75.138/sat/tv571
 東森超視,rtmp://59.124.75.138/sat/tv521
-非凡新闻(8月4日回放),https://tv2.5dxr.xyz/20220804/M68u0TeW/hls/index.m3u8?skipl=1
-股市热炒店(8月4日回放),http://hl4.umykrj.cn/video/m3u8/2022/08/04/445031bd/playlist.m3u8
+非凡新闻(8月5日回放),https://tv2.5dxr.xyz/20220805/bOVwxJD7/hls/index.m3u8?skipl=1
+非凡新闻(8月5日回放),https://tv2.5dxr.xyz/20220804/M68u0TeW/hls/index.m3u8?skipl=1
+非凡新闻(8月5日回放),https://tv2.5dxr.xyz/20220805/HmBMytpV/hls/index.m3u8?skipl=1
+94要客诉(8月5日回放),https://tv2.5dxr.xyz/20220805/LNUL1Ck6/hls/index.m3u8?skipl=1
+台北之音,https://tv2.5dxr.xyz/20220805/JSonlOgL/hls/index.m3u8?skipl=1
+股市热炒店(8月5日回放),http://hl0.umykrj.cn/video/m3u8/2022/08/05/95e1c1c8/playlist.m3u8
+理财达人秀(8月5日回放),http://hl4.umykrj.cn/video/m3u8/2022/08/04/445031bd/playlist.m3u8
 緯來育樂,rtmp://59.124.75.138/sat/tv701
 緯來體育,rtmp://59.124.75.138/sat/tv721
 ELEVEN1,rtmp://59.124.75.138/sat/tv731
